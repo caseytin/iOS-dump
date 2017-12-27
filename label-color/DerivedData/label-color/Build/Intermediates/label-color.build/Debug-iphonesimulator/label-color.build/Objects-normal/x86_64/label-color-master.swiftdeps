@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "ab1fbec91be2f2d680cd2bd07129905d"
+build_time: [562623614, 992850000]
+inputs:
+  "/Users/Casey/Desktop/cs junk/swift ios/label-color/label-color/ViewController.swift": [562623610, 0]
+  "/Users/Casey/Desktop/cs junk/swift ios/label-color/label-color/AppDelegate.swift": [562623610, 0]
